@@ -60,7 +60,7 @@ section {
     max-height: auto;
     padding-top: 60px;
     display: block;
-    overflow:auto;
+    overflow: auto;
     background-color: #294463;
 }
 
@@ -87,7 +87,6 @@ ul{
     margin-left: 12vw;
     margin-right: 12vw;
     max-height: auto;
-    
 }
 
 #about-content{
@@ -95,7 +94,6 @@ ul{
 }
 
 #resume{
-
     max-height: auto;
     padding-left: 5vw;
     padding-right: 5vw;
